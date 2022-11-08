@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: normal;
+    font-size: 10px;
+    font-family: sans-serif;
+
+}
+
+body{background: url('Decore.png'),url('Decore.png');
+    background-repeat: no-repeat,no-repeat;
+    background-position: to   p right,top left;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 10%;
+}
+
+header ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 64px;
+    list-style: none;
+    font-size: 28px;
+
+}
+p1{ 
+    justify-content: left;
+    font-size: 40px;
+    align-items: initial; 
+    gap: 40px;
+
+
+}
+
+ul{
+    display: flex;
+    gap: 20PX;
+    list-style: none;
+
+}
+ 
+a{
+    color: black;
+    font-size: 20px;
+    font-family:solid;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.press-one {
+    width: 40px; ;
+}
+.first{
+    color: #DF6951;
+    font-size: 20px;
+    font-family: "poppins",serif;
+    font-weight: bold;
+
+}
+.second{
+    color: #181E48;
+    font-size: 84px;
+    font-family: "volkhov" ,serif;
+    font-weight: bold;
+
+}
+.tirdht{
+    color: #5E6282;
+    font-size: 16px;
+    font-family: "poppins" ,serif;
+    width: 447px;
+    height: 90px;
+
+}
+.b-one{
+    background: yellow;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border: none;
+    font-size: 18px;
+    width: 165px;
+    height: 52px;
+    border-radius: 10px;
+}
+.ss-one{
+    color: white;
+    font-size: 18px;
+
+}
+.b-two{
+  background: white;  
+  padding-top: 5px;
+  padding-left: 5PX;
+  padding-right: 5px;
+  padding-bottom: 5PX;
+  border: none;
+  font-size: 18px;
+  width: 165px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  gap: 5PX;
+
+}
+.ss-two{
+    color: #686077;
+
+}
+.press{
+    display: flex;
+    gap: 20PX;
+    font-family: "poppins" ,sans-serif;
+    align-items: center;
+
+}
+
+.travel-img{
+    width: 765px;
+    height: 764px;
+
+}
+.entete{
+    text-align: center;
+
+}
+.first-title{
+    color: #5E6282;
+    font-family: "poppins" ,sans-serif;
+    font-size: 18px;
+}
+.second-title{
+    color: #14183E;
+    font-family: "Volkhow" ,sans-serif;
+    font-size: 50px;
+
+}
+.fistdiv-title{
+    color: #5E6282;
+    font-family: "poppins" ,serif;
+    font-size: 20px;
+
+}
+.seconddiv-title{
+    color: #5E6282;
+    font-family: "poppins" ,serif;
+    font-size: 16px;
+    text-align: center;
+
+}
+.
